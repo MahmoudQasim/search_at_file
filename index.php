@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>Search at file</title>
+        <style type="text/css">
+            input{
+                display: block;
+                padding: 10px;
+                width: 550px;
+                font-size: 12pt;
+                margin: 20px auto;
+                text-align: right;
+            }
+        </style>
+    </head>
+    <html>
+        <form action="search_at_file.php" method="post">
+            <input type="text" name="word" placeholder="ادخل كلمة البحث"/>
+        </form>
+    </html>
+</html>
